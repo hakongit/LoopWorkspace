@@ -1,5 +1,6 @@
 # LoopWorkspace
 
-## Åpne punkter (18.11.26)
+## Sikkerhetsrettelser 25.11.26
 
-- Integrer og verifiser sikkerhetsrettelsen i `9a923ca` på `fix/dependencies-2026-11-18`. Låsefilkontrollen 18.11 viste addressable 2.9.2.
+Sikkerhetsrettelsen er integrert 25.11.26 (`main_lnl_patches` på `1c0caec`): addressable 2.9.2, Dependabot 0 åpne. Ingen bygg startet; workflowene kjøres bare manuelt.
+
